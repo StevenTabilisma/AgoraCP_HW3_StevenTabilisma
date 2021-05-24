@@ -2,7 +2,7 @@ let handlefail = function (err) {
     console.log(err)
 }
 
-let appId = "a6af85f840ef43108491705e2315a857";
+let appId = "df04f020611a4edbaff1e317b864f7a8";
 let globalStream;
 
 let client = AgoraRTC.createClient({
